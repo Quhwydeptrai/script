@@ -1,4 +1,4 @@
-etgenv().Setting = {
+getgenv().Setting = {
     ["Hunt"] = {
         ["Team"] = "Marines",
         ["Min"] = 0,
