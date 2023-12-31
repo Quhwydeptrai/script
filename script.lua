@@ -43,7 +43,7 @@ getgenv().Setting = {
     ["Melee"] = {
         ["Enable"] = true,
         ["Delay"] = 2.5,
-        ["Z"] = {["Enable"] = true, ["HoldTime"] = 1.25},
+        ["Z"] = {["Enable"] = true, ["HoldTime"] = 0},
         ["X"] = {["Enable"] = true, ["HoldTime"] = 0},
         ["C"] = {["Enable"] = true, ["HoldTime"] = 0},
         ["V"] = {["Enable"] = false, ["HoldTime"] = 0}
@@ -53,7 +53,7 @@ getgenv().Setting = {
         ["Delay"] = 2,
         ["Z"] = {["Enable"] = true, ["HoldTime"] = 0},
         ["X"] = {["Enable"] = true, ["HoldTime"] = 0},
-        ["C"] = {["Enable"] = true, ["HoldTime"] = 0},
+        ["C"] = {["Enable"] = true, ["HoldTime"] = 1},
         ["V"] = {["Enable"] = false, ["HoldTime"] = 0},
         ["F"] = {["Enable"] = false, ["HoldTime"] = 0}
     },
